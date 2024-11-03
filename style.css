@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0
+    ;
+}
+body{
+    font-family: "Young Serif", serif;
+}  
+body{
+    margin: 3px;
+}
+.top-nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.container{
+    display: inline-block;
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 13.0%;
+    margin-bottom: 30px;
+    
+
+}
+
+.first{
+    display: inline-block;
+    background-color: transparent;
+    width: 250px;
+    height: 340px;
+    margin: 10px;
+    border: solid black 7px;
+    text-align: center;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.second{
+    display: inline-block;
+    background-color: transparent;
+    width: 250px;
+    height: 340px;
+    margin: 10px;
+    border: solid black 7px;
+    text-align: center;
+    border-radius: 10px;
+    vertical-align: top;
+    
+}
+.third{
+    display: inline-block;
+    background-color: transparent;
+    width: 250px;
+    height: 340px;
+    margin: 10px;
+    border: solid black 7px;
+    text-align: center;
+    border-radius: 10px;
+    vertical-align: top;
+    
+}
+.fourth{
+    display: inline-block;
+    background-color: transparent;
+    width: 250px;
+    height: 340px;
+    margin: 10px;
+    border: solid black 7px;
+    text-align: center;
+    border-radius: 10px;
+    vertical-align: top;
+    
+}
+.first-card{
+    width: 150px;
+    height: 210px;
+    border: solid black 2px;
+    margin-top: 10px;
+   
+
+}
+.first-card__title{
+    margin-top: 10px;
+   
+
+}
+.first-card__para{
+ 
+    margin-top: 10px;
+}
+.first-card__button{
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.second-card{
+    width: 150px;
+    height: 210px;
+    border: solid black 2px;
+    margin-top: 10px;
+   
+
+}
+.second-card__title{
+    margin-top: 10px;
+   
+
+}
+.second-card__para{
+ 
+    margin-top: 10px;
+}
+.second-card__button{
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.third-card{
+    width: 150px;
+    height: 210px;
+    border: solid black 2px;
+    margin-top: 10px;
+   
+
+}
+.third-card__title{
+    margin-top: 10px;
+   
+
+}
+.third-card__para{
+ 
+    margin-top: 10px;
+}
+.third-card__button{
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.fourth-card{
+    width: 150px;
+    height: 210px;
+    border: solid black 2px;
+    margin-top: 10px;
+   
+
+}
+.fourth-card__title{
+    margin-top: 10px;
+   
+
+}
+.fourth-card__para{
+ 
+    margin-top: 10px;
+}
+.fourth-card__button{
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.table-content{
+    padding-top: 5px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    margin-top: 15px;
+    text-align: center;
+    padding-left: 43.0%;
+    
+   
+}
+
+.table-content__send{
+    background-color: yellowgreen;
+    color: black;
+    text-align: center;
+    
+}
+
+.submit{
+    background-color: black;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    text-align: center;
+    text-decoration: solid black 55px;
+    
+}
+
+.table-content__send{
+    background-color: yellowgreen;
+    color: black;
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
