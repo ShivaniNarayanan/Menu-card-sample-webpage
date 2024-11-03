@@ -1,6 +1,5 @@
 # Menu-card-sample-webpage
 
-# Briyani Menu Web Page
 
 This is a simple web page for a Biryani menu, showcasing four dishes with contact details. The project is created using HTML and CSS, with CSS display properties used to style and arrange elements on the page.
 
